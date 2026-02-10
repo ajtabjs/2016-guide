@@ -1,3 +1,8 @@
 .fourby3 {
-  padding-top: 75%; /* w3schools */
+  background-color:green;
+  width:800px;
+  height:600px;
+  position:relative;
+  display: table;
+  margin: 0 auto; /*https://stackoverflow.com/a/114549 */
 }
