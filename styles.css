@@ -1,8 +1,13 @@
 .fourby3 {
-  background-color:green;
-  width:800px;
-  height:600px;
+  background-color:#114080;
+  width:1400px;
+  height:100vh;
   position:relative;
   display: table;
   margin: 0 auto; /*https://stackoverflow.com/a/114549 */
+}
+body{
+
+background-color:black;
+
 }
