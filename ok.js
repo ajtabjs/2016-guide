@@ -5,3 +5,12 @@ $("button").click(function(){
 $("button").click(function(){
   $("button").hide();
 });
+
+
+
+function wow(){
+
+var music = document.getElementById("music");
+music.play();
+
+}
