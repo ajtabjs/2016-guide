@@ -6,11 +6,18 @@
   position:relative;
   display: table;
   margin: 0 auto; /*https://stackoverflow.com/a/114549 */
+  text-align:center;
 }
 body{
-
+font-family: "Comic Sans MS", cursive, sans-serif;
 background-color:black;
   margin: 0;
   padding: 0;
   overflow: hidden;
+}
+
+p,a {
+color:white;
+font-size:5vw;
+
 }
