@@ -48,9 +48,19 @@ text-align:center;}
 
   button{
   align-items:center;
-  transform: translate(50%)
+  transform: translate(50%);
+  display:inline-block;
+  vertical-align: middle;
+  }
+  label{
+  display:inline-block;
+  vertical-align: middle;
   }
 
   h1,p{
     color:white;
+  }
+  input[type="checkbox"]{
+    vertical-align:middle;
+
   }
