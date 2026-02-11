@@ -21,13 +21,13 @@ label{
 color:white;
 
 }
-p,a {
+.fourby3 p, .fourby3 a {
 color:white;
 font-size:5vw;
 margin-top:0;
 
 }
-h1{
+.fourby3 h1{
 
   margin-top:0;
   color:white;
@@ -43,11 +43,14 @@ h1{
   animation-delay: 2s;
 }
 .introwarning{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);}
+text-align:center;}
+
+
   button{
   align-items:center;
   transform: translate(50%)
+  }
+
+  h1,p{
+    color:white;
   }
