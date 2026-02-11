@@ -16,7 +16,11 @@ background-color:#242424;
   padding: 0;
   overflow: hidden;
 }
+label{
 
+color:white;
+
+}
 p,a {
 color:white;
 font-size:5vw;
@@ -43,5 +47,6 @@ h1{
 display:flex;
 text-align:center;
 justify-content:center;
+align-items:center;
 
 }
