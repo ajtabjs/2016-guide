@@ -30,6 +30,11 @@ h1{
   font-size:7vw;
 }
 
-.animate__animated.animate__fadeIn {
+#intro1 {
   --animate-duration: 3.5s;
+}
+
+#intro2 {
+  --animate-duration: 8s;
+  animation-delay: 2s;
 }
