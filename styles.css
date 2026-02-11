@@ -42,18 +42,3 @@ h1{
   --animate-duration: 8s;
   animation-delay: 2s;
 }
-.introwarning input, .introwarning label{
-display:inline;
-vertical-align:middle;
-
-}
-.introwarning{
-display:flex;
-flex-direction:column;
-align-items:flex-start;
-
-}
-button{
-
-  margin-top:10%;
-}
