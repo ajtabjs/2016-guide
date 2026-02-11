@@ -3,7 +3,7 @@ $("button").click(function(){
 });
 
 $("button").click(function(){
-  $("button").hide();
+  $(".introwarning").hide();
 });
 
 
