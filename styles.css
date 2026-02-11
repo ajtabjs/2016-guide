@@ -48,7 +48,6 @@ text-align:center;}
 
   button{
   align-items:center;
-  transform: translate(50%);
   display:inline-block;
   vertical-align: middle;
   }
