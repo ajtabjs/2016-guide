@@ -11,7 +11,7 @@
 }
 body{
 font-family: "Comic Sans MS", cursive, sans-serif;
-background-color:black;
+background-color:#242424;
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -37,4 +37,11 @@ h1{
 #intro2 {
   --animate-duration: 8s;
   animation-delay: 2s;
+}
+
+.introwarning{
+display:flex;
+text-align:center;
+justify-content:center;
+
 }
