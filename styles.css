@@ -42,3 +42,12 @@ h1{
   --animate-duration: 8s;
   animation-delay: 2s;
 }
+.introwarning{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);}
+  button{
+  align-items:center;
+  transform: translate(50%)
+  }
